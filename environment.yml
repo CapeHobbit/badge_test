@@ -1,0 +1,10 @@
+name: badge_test
+channels:
+  - conda-forge
+dependencies:
+  - conda-forge::python=3.9
+  - conda-forge::notebook
+  - conda-forge::xarray
+  - conda-forge::netcdf4
+  - conda-forge::shapely
+  - conda-forge::matplotlib
