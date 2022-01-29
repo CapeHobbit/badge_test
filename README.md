@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/benloveday%2Fbadge_test/main)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CapeHobbit/badge_test/)
-
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/import/github/CapeHobbit/blob/main/badge_test/)
 
 ## Getting started
 
