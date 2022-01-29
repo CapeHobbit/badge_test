@@ -1,7 +1,7 @@
 # badge_test
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/benloveday%2Fbadge_test/main)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://gitlab.com/middle_earth_observation/lego_satellite_maps/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CapeHobbit/badge_test/]
 
 
 ## Getting started
